@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background-color: rgb(197, 230, 130);
+    color: green
+    
+};
+#inputt{
+
+    /* width: 100px;
+    background-color: aqua;
+    color: greenyellow; */
+}
+
+
+.btn{
+    display: inline;
+    background-color: green;
+    color: black;
+    margin: 5px;
+    cursor: pointer;
+    color: #fff;
+    border-color: #fff;
+    font-family: Arial;
+    border-bottom: #fff;
+    border-top: #fff;
+    border-left: #fff;
+    border-right: #fff;    
+    border-radius: 1px;
+};
+
+
